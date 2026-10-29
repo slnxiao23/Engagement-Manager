@@ -14,6 +14,3 @@ make test
 
 To remove the build files, run `make clean`.
 
-## Current scope
-
-The program runs in one process and keeps data in memory.
